@@ -1,2 +1,2 @@
 # bookstore
-Book store microservice
+Book store microservice.
